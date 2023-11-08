@@ -6,11 +6,29 @@
 
 > 
 
-# 请尊重博主劳动果实切勿肆意传播，并不得将此套代码用于非法用途，仅限技术学习和交流，全套定价800U，白嫖勿扰。
+```
+请尊重博主劳动果实不得将此套代码用于非法用途，仅限技术学习和交流，全套定价800U，白嫖勿扰。
+```
 
 
 
 ![find YOU](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
+# 关联的开源仓库
+
+<!--   my-proj -->
+
+| 模块                                | 仓库地址                                                     |
+| ----------------------------------- | ------------------------------------------------------------ |
+| **商业版棋牌，UI 更漂亮，月月更新** | [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/bizzancoin/qipaiyouxi) |
+| **开源代码：房卡完整代码**          | [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/bizzancoin/qipaiyouxi_fangkayuanma) |
+| **开源代码：管理后台web代码**       | [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/bizzancoin/qipaiyouxi_guanlihoutai) |
+|                                     |                                                              |
+|                                     |                                                              |
+|                                     |                                                              |
+|                                     |                                                              |
+
+<!--   GitHub proj graph -->
 
 # 项目外包
 
